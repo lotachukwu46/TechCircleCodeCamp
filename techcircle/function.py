@@ -4,5 +4,6 @@ def infinite_arguments(*args):
         sum += arg
     return sum
 
+grades = [10, 20, 30]
 
-print(infinite_arguments())
+print(len(grades))
